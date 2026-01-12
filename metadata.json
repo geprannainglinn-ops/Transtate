@@ -1,0 +1,7 @@
+{
+  "name": "Burmese Voice Translator",
+  "description": "Speak in Burmese to transcribe and instantly translate into spoken English and Chinese.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
